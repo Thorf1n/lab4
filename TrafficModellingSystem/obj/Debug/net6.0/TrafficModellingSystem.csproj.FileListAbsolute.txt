@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\bin\Debug\net6.0\TrafficModellingSystem.exe
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\bin\Debug\net6.0\TrafficModellingSystem.deps.json
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\bin\Debug\net6.0\TrafficModellingSystem.runtimeconfig.json
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\bin\Debug\net6.0\TrafficModellingSystem.dll
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\bin\Debug\net6.0\TrafficModellingSystem.pdb
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.dll
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\refint\TrafficModellingSystem.dll
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.pdb
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\TrafficModellingSystem.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\Lab4\TrafficModellingSystem\obj\Debug\net6.0\ref\TrafficModellingSystem.dll

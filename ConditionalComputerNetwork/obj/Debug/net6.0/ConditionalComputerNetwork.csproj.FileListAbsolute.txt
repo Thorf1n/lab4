@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\bin\Debug\net6.0\ConditionalComputerNetwork.exe
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\bin\Debug\net6.0\ConditionalComputerNetwork.deps.json
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\bin\Debug\net6.0\ConditionalComputerNetwork.runtimeconfig.json
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\bin\Debug\net6.0\ConditionalComputerNetwork.dll
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\bin\Debug\net6.0\ConditionalComputerNetwork.pdb
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.dll
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\refint\ConditionalComputerNetwork.dll
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.pdb
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ConditionalComputerNetwork.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\Lab4\ConditionalComputerNetwork\obj\Debug\net6.0\ref\ConditionalComputerNetwork.dll
